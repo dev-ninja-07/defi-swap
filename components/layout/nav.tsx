@@ -42,7 +42,7 @@ export function Nav() {
                 <ListItem href="/" title="Swap Interface">
                   Go to Swap Interface.
                 </ListItem>
-                <ListItem href="https://github.com/Aegis-07/defi-swap" title="GitHub Repository">
+                <ListItem href="https://github.com/roman-mamchur/defi-swap" title="GitHub Repository">
                   View information of DApp.
                 </ListItem>
                 <ListItem href="/address" title="Address History">
